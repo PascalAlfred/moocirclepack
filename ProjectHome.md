@@ -1,0 +1,1 @@
+The purpose of this script is to bring circle packing to Javascript, as opposed to Flash or Java. While this implementation is less efficient than the aforementioned technologies, it produces a nice data visualization and is quick and simple for anyone to set up. The script is licensed under an MIT-style license.
